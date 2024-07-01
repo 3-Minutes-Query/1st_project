@@ -2,7 +2,7 @@
 
 ## " 혼자서도 맛있는 한 끼를, 혼밥세끼가 실현해드립니다."
 
-> [ <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="700" height="500">](https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514)
+> [ <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="700" height="300">](https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514)
 
 
 <br>
