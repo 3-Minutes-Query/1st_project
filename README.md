@@ -2,7 +2,7 @@
 
 ## " 혼자서도 맛있는 한 끼를, 혼밥세끼가 실현해드립니다 ㅋㅋ "
 
->  <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/54d4a6c2-cf36-4b4e-a6d3-947880e6afc5" alt="배너 이미지 칸" width="100%" height="300">
+> [ <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="100%" height="500">](https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514)
 
 
 회원가입 페이지
