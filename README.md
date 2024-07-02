@@ -1,6 +1,6 @@
 # 🍚🍴 혼밥세끼 
 
- <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="900" height="470">]
+ <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="900" height="470">
 
 <br>
 
