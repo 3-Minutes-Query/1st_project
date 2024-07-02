@@ -1,4 +1,4 @@
-# 🍚🍴 혼밥세끼 
+![image](https://github.com/3-Minutes-Query/1st_project/assets/102345450/e79ff8a1-86db-4652-9bc6-b6039cd614d6)# 🍚🍴 혼밥세끼 
 ------
 > [ <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="800" height="430">](https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514)
 
@@ -97,11 +97,13 @@
 ## 📊 DB모델링
 
 ### 01_ 개념적 모델링
+![image](https://github.com/3-Minutes-Query/1st_project/assets/102345450/d8ef4f2f-14fd-4fd8-9759-843ea5b74298)
 
 
 ### 02_ 논리적 모델링
 ### 03_ 물리적 모델링
-![Uploading 혼밥세끼.png…]()
+![image](https://github.com/3-Minutes-Query/1st_project/assets/102345450/3db3f2c5-8be6-4052-a17b-4b002b10c716)
+
 
 
 
