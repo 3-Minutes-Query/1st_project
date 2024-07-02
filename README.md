@@ -1,4 +1,4 @@
-![image](https://github.com/3-Minutes-Query/1st_project/assets/102345450/e79ff8a1-86db-4652-9bc6-b6039cd614d6)# 🍚🍴 혼밥세끼 
+# 🍚🍴 혼밥세끼 
 ------
 > [ <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="800" height="430">](https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514)
 
