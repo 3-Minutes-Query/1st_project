@@ -91,14 +91,14 @@
 
 ## 🗃️ 요구사항
 ### [요구사항 정의서](https://docs.google.com/spreadsheets/d/1YVUgEbJRT1dJ8EujF3jOo3xXpX6KpSrxTAengGAMM-w/edit?gid=0#gid=0)
-![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/236c27a6-17e3-44dc-b9c1-a24d3d9a760c)
 
+<a href="test"><img src="![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8e549217-5404-4ea3-b60f-c355d40c782d)"></a>
 <br>
 
 ## 📊 DB모델링
 
 ### 01_ 개념적 모델링
-![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8e549217-5404-4ea3-b60f-c355d40c782d)
+
 
 ### 02_ 논리적 모델링
 ### 03_ 물리적 모델링
