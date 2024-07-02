@@ -28,7 +28,7 @@
 
 출처:행정안전부(https://jumin.mois.go.kr/)
 <br><br>
-<img src="https://github.com/3-Minutes-Query/1st_project/assets/119058637/cace5131-e027-454c-8713-b551fb393df5" width="200">
+<img src="https://github.com/3-Minutes-Query/1st_project/assets/119058637/cace5131-e027-454c-8713-b551fb393df5" width="600">
 <br><br>
 
 <b>`2. 증가하는 밀키트 시장 `</b><br>
@@ -36,7 +36,7 @@
 출처 : 한국수산경제(http://www.fisheco.com)
 <br><br>
 
-<img src="https://github.com/3-Minutes-Query/1st_project/assets/119058637/86ee49c3-788e-4848-ac8e-0280d2f0ad2b" width="200">
+<img src="https://github.com/3-Minutes-Query/1st_project/assets/119058637/86ee49c3-788e-4848-ac8e-0280d2f0ad2b" width="600">
 <br>
 
 ### 04_ 프로젝트 주요 기능 
