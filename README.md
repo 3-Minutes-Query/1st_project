@@ -92,9 +92,6 @@
 ## 🗃️ 요구사항
 ### [요구사항 정의서](https://docs.google.com/spreadsheets/d/1YVUgEbJRT1dJ8EujF3jOo3xXpX6KpSrxTAengGAMM-w/edit?gid=0#gid=0)
 
-<a href="test"><img src="![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8e549217-5404-4ea3-b60f-c355d40c782d)"></a>
-<br>
-
 ## 📊 DB모델링
 
 ### 01_ 개념적 모델링
@@ -105,7 +102,7 @@
 > https://www.erdcloud.com/d/GCPQCsCEDBpBxKxQ3
 <br>
 
-<!-- ## 📑 테스트케이스 문서 
+ ## 📑 테스트케이스 문서 
 <br>
 
 ## 📉 주요쿼리
@@ -124,4 +121,4 @@
 |                  유제은                  | 어? 금지 |
 |                  김정모                  | 헤헤 |
 |                  송의혁                  | 기똥차다 ~ |
--->
+
