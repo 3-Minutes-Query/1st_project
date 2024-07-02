@@ -103,6 +103,8 @@
 <br>
 
  ## 🔀 플로우차트 
+ ![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/62e76cb4-6f87-4411-a3ca-b286fe62efdd)
+
 <br>
 
  ## 📑 테스트케이스 문서 
