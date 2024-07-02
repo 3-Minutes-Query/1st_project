@@ -102,9 +102,7 @@
 
 ### 02_ 논리적 모델링
 ### 03_ 물리적 모델링
-
-![image](https://github.com/3-Minutes-Query/1st_project/assets/102345450/a6b76f0f-635c-441c-9fbc-1da4a4033f8b)
-
+> https://www.erdcloud.com/d/GCPQCsCEDBpBxKxQ3
 <br>
 
 <!-- ## 📑 테스트케이스 문서 
