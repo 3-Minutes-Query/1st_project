@@ -86,11 +86,11 @@
 
 <br>
 
-## 🗓️ WBS
-<br>
+<!--## 🗓️ WBS
+<br>-->
 
 ## 🗃️ 요구사항
-[WBS](https://docs.google.com/spreadsheets/d/1YVUgEbJRT1dJ8EujF3jOo3xXpX6KpSrxTAengGAMM-w/edit?gid=0#gid=0)
+[요구사항 정의서](https://docs.google.com/spreadsheets/d/1YVUgEbJRT1dJ8EujF3jOo3xXpX6KpSrxTAengGAMM-w/edit?gid=0#gid=0)
 ![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/236c27a6-17e3-44dc-b9c1-a24d3d9a760c)
 
 <br>
