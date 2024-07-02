@@ -105,7 +105,8 @@
 <br>
 
  ## 🔀 플로우차트 
-![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/7ef83f84-4567-40a1-bfdd-4bd3384438e3)
+![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/f01eb326-4565-4ad8-8d37-639bd3adc7f9)
+
 
 
 <br>
