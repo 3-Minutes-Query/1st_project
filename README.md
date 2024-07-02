@@ -101,7 +101,8 @@
 
 ### 02_ 논리적 모델링
 ### 03_ 물리적 모델링
-![image](https://github.com/3-Minutes-Query/1st_project/assets/102345450/de3b35d9-b52c-48bc-9d46-1eb127c0ecd8)
+![Uploading 혼밥세끼.png…]()
+
 
 <br>
 
