@@ -111,7 +111,8 @@
 
 ### 02_ 논리적 모델링
 
-![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/7dfff350-c77e-4a10-a1af-e46053caed07)
+![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/5041db3f-bad8-48be-b4e8-7242a6f95e72)
+
 
 
 
@@ -119,7 +120,8 @@
 <br><br>
 ### 03_ 물리적 모델링
 ### [ERD다이어그램](https://www.erdcloud.com/d/GCPQCsCEDBpBxKxQ3)
-![image](https://github.com/3-Minutes-Query/1st_project/assets/102345450/3db3f2c5-8be6-4052-a17b-4b002b10c716)
+![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8c7f24d2-1c76-4b31-88bc-0c6e1c174c9d)
+
 
 
 
