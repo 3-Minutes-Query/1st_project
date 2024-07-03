@@ -144,8 +144,9 @@
 <summary>🕵️‍♀️ 관리자 정보 관리</summary>
 
 <details>
-<summary> 1. 식재료 게시글 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+<summary> 1. 관리자가입</summary>
+![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8ec2654d-1cf8-47c8-b120-1bab86c02c3b)
+
 </details>
 
 </details>
@@ -258,15 +259,15 @@
 <summary>🏃‍♂️ 식단 기록 관리</summary>
 <br>
 <details>
-   <summary>&nbsp; 식단 기록 등록</summary>
+   <summary>&nbsp; 1 .식단 기록 등록</summary>
             <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/9ef93100-425d-4e88-a5af-6e5eec94cc9a" width="600">
 </details>
 <details>
- <summary>&nbsp;식단 기록 수정</summary>
+ <summary>&nbsp;2. 식단 기록 수정</summary>
     <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/5af14a44-f4f0-4566-a6e3-c6818ae5ae78" width="600">
  </details>
  <details>
-   <summary>&nbsp;식단 기록 삭제</summary>
+   <summary>&nbsp;3. 식단 기록 삭제</summary>
     <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/ece28ad6-c9fa-4348-8946-ba77eec2f87e" width="600">
  </details>
 </details>
