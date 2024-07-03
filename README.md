@@ -181,12 +181,14 @@
 <summary>🧑‍🍳 레시피 게시글 관리</summary>
 <!-- 레시피 게시글 content here -->
 </details>
+
 ---
 
 <details>
 <summary>🏃‍♂️ 식단 기록 관리</summary>
 <!-- 식단 기록 content here -->
 </details>
+
 ---
 
 <details>
