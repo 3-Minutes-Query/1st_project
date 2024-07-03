@@ -1,4 +1,4 @@
--- DATABASE이름은  mysql
+-- Drop tables if they exist to ensure a clean slate
 DROP TABLE IF EXISTS `recipe_likes`;
 DROP TABLE IF EXISTS `recipe_comment`;
 DROP TABLE IF EXISTS `recipe_photos`;
@@ -57,7 +57,7 @@ CREATE TABLE `mealkit` (
     `mealkit_updated_at` timestamp NULL,
     `mealkit_deleted_at` timestamp NULL,
     `admin_id` bigint(20) NOT NULL,
-    `mealkit_status` VARCHAR(255) NOT NULL CHECK(mealkit_status IN ('판매중','판매','수정','삭제')),
+    `mealkit_status` VARCHAR(255) NOT NULL CHECK(mealkit_status IN ('판매중','품절','수정','삭제')),
     PRIMARY KEY (`mealkit_id`),
     FOREIGN KEY (`admin_id`) REFERENCES `admin`(`admin_id`) ON DELETE CASCADE
 ) ENGINE=INNODB AUTO_INCREMENT=1 COMMENT='밀키트';
@@ -93,7 +93,7 @@ CREATE TABLE `best_recipe_mealkit` (
     `best_mealkit_deleted_at` timestamp NULL,
     `best_author` VARCHAR(255) NOT NULL,
     `best_selected_time` timestamp NOT NULL,
-    `best_mealkit_status` VARCHAR(255) NOT NULL CHECK(best_mealkit_status IN ('판매중','판매','수정','삭제')),
+    `best_mealkit_status` VARCHAR(255) NOT NULL CHECK(best_mealkit_status IN ('판매중','품절','수정','삭제')),
     `admin_id` bigint(20) NOT NULL,
     PRIMARY KEY (`best_mealkit_id`),
     FOREIGN KEY (`admin_id`) REFERENCES `admin`(`admin_id`) ON DELETE CASCADE
