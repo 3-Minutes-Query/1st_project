@@ -186,6 +186,9 @@
 
 <details>
 <summary>🏃‍♂️ 식단 기록 관리</summary>
+ <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/9ef93100-425d-4e88-a5af-6e5eec94cc9a" width="600">
+
+
 <!-- 식단 기록 content here -->
 </details>
 
