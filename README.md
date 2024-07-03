@@ -136,6 +136,26 @@
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/1d458543-fcdc-42dd-9677-d397077d04b0", width="600">
 </details>
 
+<details>
+<summary> 1. 회원가입</summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/1d458543-fcdc-42dd-9677-d397077d04b0", width="600">
+</details>
+
+<details>
+<summary> 2. 회원 탈</summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/641cbbcc-8c55-4e74-86ca-15adff384032", width="600">
+</details>
+
+<details>
+<summary> 3. 회원정보 수정</summary>
+<img src = https://github.com/3-Minutes-Query/1st_project/assets/105826061/fdb9b8c4-2008-42b6-b40d-1112f009d6f9", width="600">
+</details>
+
+<details>
+<summary> 4. 회원정보 조회</summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/4b222c41-b3e1-4c84-8855-f81d6e54da41", width="600">
+</details>
+
 </details>
 
 ---
