@@ -26,7 +26,7 @@
 <br>
 출처:행정안전부(https://jumin.mois.go.kr/)
 <br>
-<img src="https://github.com/3-Minutes-Query/1st_project/assets/119058637/cace5131-e027-454c-8713-b551fb393df5" width="500">
+<img src="https://github.com/3-Minutes-Query/1st_project/assets/119058637/cace5131-e027-454c-8713-b551fb393df5" width="600">
 <br><br>
 
 <b>2. 증가하는 밀키트 시장 </b><br>
