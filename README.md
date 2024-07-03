@@ -132,8 +132,8 @@
 <summary>👨‍💼 회원 정보 관리</summary>
 
 <details>
-<summary> 1. 식재료 게시글 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/f1f6ebb8-284c-4914-a72c-a88c10b5d789", width="600">
+<summary> 1. 회원가입</summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/1d458543-fcdc-42dd-9677-d397077d04b0", width="600">
 </details>
 
 </details>
