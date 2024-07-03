@@ -184,8 +184,8 @@
 </details>
 
 <details>
-<summary> 3. 식재료 게시글 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/53ed6811-37fc-4a0c-9d1b-ff825f1f9a4d"  width="600">
+<summary> 3. 식재료 게시글 삭제 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/f7c0cc20-993a-4f57-beda-c3ad9a07615a"  width="600">
 </details>
 
 <details>
