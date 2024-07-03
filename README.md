@@ -165,8 +165,56 @@
 
 <details>
 <summary>🥘 일반 밀키트 정보 관리</summary>
-<!-- 일반 밀키트 정보 content here -->
+<details>
+ <summary> 1. 일반 밀키트 상품 등록</summary>
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/02118c5a-b252-4a19-adbc-daa7014f15ac"
+  width="600">
+ </details>
+ <details>
+ <summary> 2. 일반 밀키트 상품 수정</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/4b89cfc2-3cef-438e-a80c-86c2046b9967"
+  width="600">
+ </details>
+ <details>
+ <summary> 3. 일반 밀키트 상품 삭제</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/58480eb6-f7c3-4d70-b3f7-6c11a864c819"  width="600">
+ </details>
+ <details>
+ <summary> 4. 일반 밀키트 상품 조회</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/bfabd1dc-9b3f-4ac4-8730-7a4ca137bef6"  width="600">
+ </details>
+ <details>
+ <summary> 5. 일반 밀키트 상품 키워드 조회</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/dcb63193-f1d2-4a0f-9f16-247a3f3c86a6"
+  width="600">
+ </details>
+ <details>
+ <summary> 6. 일반 밀키트 상품 범위 조회</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/833d202f-f92d-442e-9217-57333153caf6"
+  width="600">
+ </details>
+ <details>
+ <summary> 7. 일반 밀키트 상품 리뷰 등록</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/aa107bfe-7407-474b-842b-6c171eb7fc2f"  width="600">
+ </details>
+ <details>
+ <summary> 8. 일반 밀키트 상품 리뷰 수정</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/831eb200-94f9-4feb-9ae4-098190d8ca2e"
+  width="600">
+ </details>
+ <details>
+ <summary> 9. 일반 밀키트 상품 리뷰 삭제</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/41d4cfaa-daeb-4a3c-8764-46bc1612656e"
+  width="600">
+ </details>
+ <details>
+ <summary> 10. 일반 밀키트 상품 리뷰 조회</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/18e0391a-8e8d-4b02-bfe9-fcb26b1a8427"
+  width="600">
+ </details>
 </details>
+
+
 
 ---
 
