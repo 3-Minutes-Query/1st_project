@@ -278,7 +278,7 @@
  </details>
  <details>
    <summary>&nbsp;3. 식단 기록 삭제</summary>
-    <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/ece28ad6-c9fa-4348-8946-ba77eec2f87e" width="600">
+    <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/ccb24f4d-2913-461a-a25f-d5956835465b" width="600">
  </details>
 </details>
 
