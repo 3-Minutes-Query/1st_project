@@ -105,13 +105,17 @@
 
 <br><br>
 ## 📊 DB모델링
-### 01_ 논리적 모델링
+### 01_ 개념적 모델링
+![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8212505d-0770-4ec4-9045-d8135ab634b2)
+
+
+### 02_ 논리적 모델링
 ![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/ed40a27c-3d41-424c-b513-18cef804325c)
 
 
 
 <br><br>
-### 02_ 물리적 모델링
+### 03_ 물리적 모델링
 ### [ERD다이어그램](https://www.erdcloud.com/d/GCPQCsCEDBpBxKxQ3)
 ![image](https://github.com/3-Minutes-Query/1st_project/assets/102345450/3db3f2c5-8be6-4052-a17b-4b002b10c716)
 
