@@ -189,8 +189,8 @@
 </details>
 
 <details>
-<summary> 4. 식재료 게시글 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/53ed6811-37fc-4a0c-9d1b-ff825f1f9a4d"  width="600">
+<summary> 4. 식재료 게시글 조회 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/eb3b8cb4-08f8-4928-8e88-c6b2972cb546"  width="600">
 </details>
 </details>
 
