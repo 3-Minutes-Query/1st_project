@@ -137,11 +137,6 @@
 </details>
 
 <details>
-<summary> 1. 회원가입</summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/1d458543-fcdc-42dd-9677-d397077d04b0", width="600">
-</details>
-
-<details>
 <summary> 2. 회원 탈</summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/641cbbcc-8c55-4e74-86ca-15adff384032", width="600">
 </details>
@@ -164,17 +159,20 @@
 <summary>🕵️‍♀️ 관리자 정보 관리</summary>
 
  <details>
- <summary> 1. 관리자가입</summary>
-  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/6ef11a08-82ae-488a-83f8-f6ef4d197222"  width="600">
+ <summary> 1. 관리자 가입</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/04f83ba0-de40-49e9-9a81-b52b97bbdc45"  width="600">
  </details>
+ 
  <details>
- <summary> 2. 관리자탈퇴</summary>
-  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/9ce3534f-bd89-4a8f-9dcd-d43a76914d73"  width="600">
+ <summary> 2. 관리자 탈퇴</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/7488e110-88f9-4a39-8fae-6ed6775780ab"  width="600">
  </details>
+ 
  <details>
  <summary> 3. 관리자 정보 수정</summary>
-  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/c5f7a78f-9966-43d8-b09b-c632bcff846b"  width="600">
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/2aa1c7c5-4f7c-44f6-823a-a14297df3e2c"  width="600">
  </details>
+ 
  <details>
  <summary> 4. 관리자 정보 조회</summary>
   <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/7f41e26b-3ddc-4a34-b731-0dcbf2d9c3fb"  width="600">
