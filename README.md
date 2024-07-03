@@ -137,7 +137,7 @@
 </details>
 
 <details>
-<summary> 2. 회원 탈</summary>
+<summary> 2. 회원 탈퇴</summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/641cbbcc-8c55-4e74-86ca-15adff384032", width="600">
 </details>
 
