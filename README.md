@@ -175,7 +175,7 @@
  
  <details>
  <summary> 4. 관리자 정보 조회</summary>
-  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/7f41e26b-3ddc-4a34-b731-0dcbf2d9c3fb"  width="600">
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/cd916181-5ec7-493b-897e-bbd600730a07"  width="600">
  </details>
 </details>
 
