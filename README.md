@@ -125,12 +125,80 @@
 
 
 
-
-
 <br>
 
  ## 📑 테스트케이스 문서 
+<details>
+<summary>👨‍💼 회원 정보 관리</summary>
+<!-- 회원정보 content here -->
+</details>
+
+---
+
+<details>
+<summary>🕵️‍♀️ 관리자 정보 관리</summary>
+<!-- 관리자정보 content here -->
+</details>
+
+---
+
+<details>
+<summary>🥘 일반 밀키트 정보 관리</summary>
+<!-- 일반 밀키트 정보 content here -->
+</details>
+
+---
+
+<details>
+<summary>🍱 베스트 레시피 밀키트 정보 관리</summary>
+<!-- 베스트 레시피 밀키트 정보 content here -->
+</details>
+
+---
+
+<details>
+<summary>🧺 장바구니 관리</summary>
+<!-- 장바구니 content here -->
+</details>
+
+---
+
+<details>
+<summary>💸 주문 관리</summary>
+<!-- 초대장템플릿 content here -->
+</details>
+
+---
+
+<details>
+<summary>🥑 식재료 게시글 관리</summary>
+<!-- 식재료 게시글 content here -->
+</details>
+
+---
+
+<details>
+<summary>🧑‍🍳 레시피 게시글 관리</summary>
+<!-- 레시피 게시글 content here -->
+</details>
+
+---
+
+<details>
+<summary>🏃‍♂️ 식단 기록 관리</summary>
+<!-- 식단 기록 content here -->
+</details>
+
+---
+
+<details>
+<summary>📖 목록 조회</summary>
+<!-- 목록 조회 content here -->
+</details>
+
+---
 <br>
+
 
 ## 📉 주요쿼리
 <br>
@@ -146,6 +214,6 @@
 |                  이나현                  | 어쩔방구 |
 |                  김민석                  | 아 귀뜨겁다 집에 가야겠다|
 |                  유제은                  | 어? 금지 |
-|                  김정모                  | 헤헤 |
+|                  김정모                  | 헤헤 신기해 |
 |                  송의혁                  | 기똥차다 ~ |
 
