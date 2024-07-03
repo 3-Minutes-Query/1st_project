@@ -93,6 +93,11 @@
 
 <!--## 🗓️ WBS
 <br>-->
+<br>
+
+## 🔀 플로우차트 
+![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/f01eb326-4565-4ad8-8d37-639bd3adc7f9)
+
 
 ## 🗃️ 요구사항
 ### [요구사항 정의서](https://docs.google.com/spreadsheets/d/1YVUgEbJRT1dJ8EujF3jOo3xXpX6KpSrxTAengGAMM-w/edit?gid=0#gid=0)
@@ -109,10 +114,6 @@
 ![image](https://github.com/3-Minutes-Query/1st_project/assets/102345450/3db3f2c5-8be6-4052-a17b-4b002b10c716)
 
 
-<br>
-
- ## 🔀 플로우차트 
-![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/f01eb326-4565-4ad8-8d37-639bd3adc7f9)
 
 
 
