@@ -106,7 +106,8 @@
 <br><br>
 ## 📊 DB모델링
 ### 01_ 논리적 모델링
-![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/cf5feb70-1981-443a-82ec-75cf982284f2)
+![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/ed40a27c-3d41-424c-b513-18cef804325c)
+
 
 
 <br><br>
