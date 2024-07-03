@@ -145,7 +145,7 @@
 
 <details>
 <summary> 1. 관리자가입</summary>
- <img src = "(https://github.com/3-Minutes-Query/1st_project/assets/93479041/8ec2654d-1cf8-47c8-b120-1bab86c02c3b)"  width="600">
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/8ec2654d-1cf8-47c8-b120-1bab86c02c3b"  width="600">
 
 
 </details>
