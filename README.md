@@ -217,6 +217,27 @@
 <summary> 5. 식재료 게시글 검색 </summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/7749e2d3-a301-4f55-bfb6-dbb92e0612bb"  width="600">
 </details>
+
+<details>
+<summary> 6. 식재료 게시글 댓글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/bf849242-8cac-4d20-b14b-51dd7d804d67"  width="600">
+</details>
+
+<details>
+<summary> 7. 식재료 게시글 댓글 수정 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/6dc817c6-fc87-4acb-a17c-5e4e54378703"  width="600">
+</details>
+
+<details>
+<summary> 8. 식재료 게시글 댓글 삭제 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/6457439d-dcbc-4f93-8041-560f6ff305c4"  width="600">
+</details>
+
+<details>
+<summary> 9. 식재료 게시글 댓글 조회 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/cc32614e-e42d-4926-a760-c338d9e45429"  width="600">
+</details>
+
 </details>
 
 ---
