@@ -110,7 +110,9 @@
 
 
 ### 02_ 논리적 모델링
-![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/ed40a27c-3d41-424c-b513-18cef804325c)
+
+![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/7dfff350-c77e-4a10-a1af-e46053caed07)
+
 
 
 
