@@ -102,7 +102,7 @@ CREATE TABLE `best_recipe_mealkit` (
 CREATE TABLE `recipe_likes` (
     `like_id` bigint(20) NOT NULL AUTO_INCREMENT,
     `recipe_id` bigint(20) NOT NULL,
-    `Field` timestamp NOT NULL,
+    `like_created_at` timestamp NOT NULL,
     `user_id` bigint(20) NOT NULL,
     PRIMARY KEY (`like_id`, `recipe_id`),
     FOREIGN KEY (`recipe_id`) REFERENCES `recipe`(`recipe_id`) ON DELETE CASCADE,
