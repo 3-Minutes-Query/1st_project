@@ -192,6 +192,11 @@
 <summary> 4. 식재료 게시글 조회 </summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/eb3b8cb4-08f8-4928-8e88-c6b2972cb546"  width="600">
 </details>
+
+<details>
+<summary> 5. 식재료 게시글 검색 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/7749e2d3-a301-4f55-bfb6-dbb92e0612bb"  width="600">
+</details>
 </details>
 
 ---
