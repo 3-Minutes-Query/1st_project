@@ -153,11 +153,11 @@
  </details>
  <details>
  <summary> 3. 관리자 정보 수정</summary>
-  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/4008d902-df63-409a-a207-f0f36246c516"  width="600">
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/c5f7a78f-9966-43d8-b09b-c632bcff846b"  width="600">
  </details>
  <details>
  <summary> 4. 관리자 정보 조회</summary>
-  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/9030d6df-2242-4050-ba14-7afb0f761c03"  width="600">
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/7f41e26b-3ddc-4a34-b731-0dcbf2d9c3fb"  width="600">
  </details>
 </details>
 
