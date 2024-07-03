@@ -235,12 +235,19 @@
 
 <details>
 <summary>🏃‍♂️ 식단 기록 관리</summary>
- &nbsp;<details>
-   <summary>&nbsp;insert query</summary>
+<br>
+<details>
+   <summary>&nbsp; 식단 기록 등록</summary>
             <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/9ef93100-425d-4e88-a5af-6e5eec94cc9a" width="600">
-          </details>
-
-<!-- 식단 기록 content here -->
+</details>
+<details>
+ <summary>&nbsp;식단 기록 수정</summary>
+    <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/5af14a44-f4f0-4566-a6e3-c6818ae5ae78" width="600">
+ </details>
+ <details>
+   <summary>&nbsp;식단 기록 삭제</summary>
+    <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/ece28ad6-c9fa-4348-8946-ba77eec2f87e" width="600">
+ </details>
 </details>
 
 ---
