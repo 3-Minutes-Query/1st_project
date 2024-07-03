@@ -149,7 +149,7 @@
  </details>
  <details>
  <summary> 2. 관리자탈퇴</summary>
-  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/dcf0dc72-6925-4a0b-a75b-83423f17f528"  width="600">
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/9ce3534f-bd89-4a8f-9dcd-d43a76914d73"  width="600">
  </details>
  <details>
  <summary> 3. 관리자 정보 수정</summary>
