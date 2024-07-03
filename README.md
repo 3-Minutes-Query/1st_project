@@ -172,8 +172,26 @@
 
 <details>
 <summary>🥑 식재료 게시글 관리</summary>
-<summary> 식재료 게시글 등록 </summary>
+ 
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/53ed6811-37fc-4a0c-9d1b-ff825f1f9a4d"  width="600">
+</details>
+
+<details>
+<summary> 2. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/53ed6811-37fc-4a0c-9d1b-ff825f1f9a4d"  width="600">
+</details>
+
+<details>
+<summary> 3. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/53ed6811-37fc-4a0c-9d1b-ff825f1f9a4d"  width="600">
+</details>
+
+<details>
+<summary> 4. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/53ed6811-37fc-4a0c-9d1b-ff825f1f9a4d"  width="600">
+</details>
 </details>
 
 ---
