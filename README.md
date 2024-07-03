@@ -101,7 +101,7 @@
 
 ## 🗃️ 요구사항
 ### [요구사항 정의서](https://docs.google.com/spreadsheets/d/1YVUgEbJRT1dJ8EujF3jOo3xXpX6KpSrxTAengGAMM-w/edit?gid=0#gid=0)
-<img width="1000" alt="image" src="https://github.com/3-Minutes-Query/1st_project/assets/102345450/fed18b3c-969e-472f-a510-387e64f8a752">
+<img width="1000" heigth = "500" alt="image" src="https://github.com/3-Minutes-Query/1st_project/assets/102345450/fed18b3c-969e-472f-a510-387e64f8a752">
 
 <br><br>
 ## 📊 DB모델링
