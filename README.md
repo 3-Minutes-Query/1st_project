@@ -130,14 +130,24 @@
  ## 📑 테스트케이스 문서 
 <details>
 <summary>👨‍💼 회원 정보 관리</summary>
-<!-- 회원정보 content here -->
+
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
 </details>
 
 ---
 
 <details>
 <summary>🕵️‍♀️ 관리자 정보 관리</summary>
-<!-- 관리자정보 content here -->
+
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
 </details>
 
 ---
@@ -158,14 +168,24 @@
 
 <details>
 <summary>🧺 장바구니 관리</summary>
-<!-- 장바구니 content here -->
+
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
 </details>
 
 ---
 
 <details>
 <summary>💸 주문 관리</summary>
-<!-- 초대장템플릿 content here -->
+
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
 </details>
 
 ---
@@ -203,7 +223,12 @@
 
 <details>
 <summary>🧑‍🍳 레시피 게시글 관리</summary>
-<!-- 레시피 게시글 content here -->
+ 
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
 </details>
 
 ---
@@ -222,7 +247,13 @@
 
 <details>
 <summary>📖 목록 조회</summary>
-<!-- 목록 조회 content here -->
+ 
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
+
 </details>
 
 ---
