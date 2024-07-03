@@ -175,7 +175,7 @@
  
 <details>
 <summary> 1. 식재료 게시글 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/53ed6811-37fc-4a0c-9d1b-ff825f1f9a4d"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
 </details>
 
 <details>
