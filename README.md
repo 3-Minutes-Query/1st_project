@@ -146,10 +146,11 @@
 <details>
 <summary> 1. 관리자가입</summary>
  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/8ec2654d-1cf8-47c8-b120-1bab86c02c3b"  width="600">
-
-
+![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/4008d902-df63-409a-a207-f0f36246c516)
 </details>
-
+<summary> 3. 관리자 정보 수정</summary>
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/93479041/4008d902-df63-409a-a207-f0f36246c516"  width="600">
+</details>
 </details>
 
 ---
