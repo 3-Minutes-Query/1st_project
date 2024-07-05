@@ -515,7 +515,7 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 </details>
 
 <details>
-<summary> 2. 댓 목록 조회 </summary>
+<summary> 2. 댓글 목록 조회 </summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/1ba892f0-2cb3-4105-80ed-6e3cf3b01c52"  width="600">
 </details>
 
