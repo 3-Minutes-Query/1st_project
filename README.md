@@ -401,7 +401,7 @@
 
 <details>
 <summary> 5. 레시피 게시글 키워드 검색 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/3e48bb44-2e93-4702-b6a7-7a803f6260f8"  width="600">
 </details>
 
 <details>
