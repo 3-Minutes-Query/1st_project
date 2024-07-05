@@ -386,7 +386,7 @@
 
 <details>
 <summary> 2. 레시피 게시글 수정 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0c033569-60a2-47ed-9c27-9f2393f27548"  width="600">
 </details>
 
 <details>
