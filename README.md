@@ -125,6 +125,8 @@
 
 ## 💾 Replication
 ### 🔎 ABOUT Replication
+![image](https://github.com/3-Minutes-Query/1st_project/assets/171321676/b7ffb530-0ba9-41b5-8c20-6c32fa6f954b)
+
 일반적인 분산 시스템에서는 Application의 고가용성을 위해 내부적으로 Replication이 동작하게 되는데 이러한 Replication 동작의 구현은 어려운 영역이면서, Application의 성능과 직접적으로 연관된 영역입니다.
 리플리케이션(Replication)은 데이터베이스 시스템에서 데이터의 복제본을 생성하고 유지하는 기술입니다. 이를 통해 데이터의 가용성을 높이고, 부하를 분산시키며, 데이터 보호를 강화할 수 있습니다. 
 
