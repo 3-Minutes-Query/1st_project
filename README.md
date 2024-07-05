@@ -123,6 +123,16 @@
 ![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8c7f24d2-1c76-4b31-88bc-0c6e1c174c9d)
 
 
+## 💾 Replication
+<details>
+<summary>연동확인</summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/e1b2ece4-a72c-47f9-8795-827722bdac52"  width="600">
+</details>
+
+<details>
+<summary>slave read-only 옵션 확인 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/e1b2ece4-a72c-47f9-8795-827722bdac52"  width="600">
+</details>
 
 
 <br>
@@ -368,7 +378,6 @@
 
 ## 📉 주요쿼리
 <br>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/e1b2ece4-a72c-47f9-8795-827722bdac52"  width="600">
 
 ##  📑 테스트케이스 문서 
 <br>
