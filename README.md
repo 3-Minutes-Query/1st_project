@@ -186,7 +186,7 @@
 <summary>🥘 일반 밀키트 정보 관리</summary>
 <details>
  <summary> 1. 일반 밀키트 상품 등록</summary>
- <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/02118c5a-b252-4a19-adbc-daa7014f15ac"
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/41150fb1-f7d9-4062-a6ce-10c5baa20ee3"
   width="600">
  </details>
  <details>
