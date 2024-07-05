@@ -427,7 +427,8 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 
 <details>
 <summary> 8. 게시글 좋아요 취소 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c0df6ded-a22e-4c63-8dc8-2dc2080db82a"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/cf7a6832-f765-4ea9-b77f-efb6839efcda"  width="600">
 </details>
 
 <details>
