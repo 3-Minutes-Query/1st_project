@@ -495,7 +495,7 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 <details>
 <summary> 1. 식재료 게시글 등록 </summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
-</details>
+</details></details>
 
 
 ---
