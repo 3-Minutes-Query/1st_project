@@ -537,9 +537,9 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
  <details>
  <summary> 🔫TRIGGER </summary>
  <summary> 1. 좋아요 등록 </summary> 
- <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/30641da0-4e1f-4643-b50a-a4c75b24af7e" width = 600>
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/30641da0-4e1f-4643-b50a-a4c75b24af7e">
  <summary> 2. 좋아요 취소 </summary>
- <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/b71cdc36-dfc4-4489-a474-72db71482fa5" width = 600>
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/b71cdc36-dfc4-4489-a474-72db71482fa5">
   
  </details>
 <br>
