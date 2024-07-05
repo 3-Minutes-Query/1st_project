@@ -426,22 +426,22 @@
 
 <details>
 <summary> 10. 레시피 댓글 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/bafc7267-7448-4966-a09e-c32e67a11d88"  width="600">
 </details>
 
 <details>
 <summary> 11. 레시피 댓글 수정 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/e42143e3-615d-4d0f-9320-cde44dd85bbb"  width="600">
 </details>
 
 <details>
 <summary> 12. 레시피 댓글 삭제 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/3a7a5eff-e075-4e6f-9034-09526f28e206"  width="600">
 </details>
 
 <details>
 <summary> 13. 레시피 댓글 조회 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/5fdd6d98-39c9-4a45-a52a-e8f12d1eb87e"  width="600">
 </details>
 
 </details>
