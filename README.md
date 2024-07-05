@@ -121,7 +121,7 @@
 <br><br>
 ### 03_ 물리적 모델링
 ### [ERD다이어그램](https://www.erdcloud.com/d/GCPQCsCEDBpBxKxQ3)
-![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8c7f24d2-1c76-4b31-88bc-0c6e1c174c9d)
+![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/ed63b678-c56c-4d1f-bdf0-ed144fd97e90)
 
 <br>
 
@@ -549,12 +549,13 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
  <summary> 🔫주문 TRIGGER </summary>
  <summary> 1. 장바구니에 담아 주문 </summary> 
  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/4d7590ad-d429-4cb0-9727-0d7294c23e5b">
+  
  <summary> 2. 주문시 재고수량 0미만일 경우 에러발생 </summary>
  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/bdc42d04-5280-4f85-ba99-8433c1ccc2dc">
-  <summary> 3. 주문취 </summary>
+ 
+  <summary> 3. 주문취소 </summary>
  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/bdc42d04-5280-4f85-ba99-8433c1ccc2dc">
- </details>
- </details>
+</details>
 <br>
 ##  📑 테스트케이스 문서 
 <br>
