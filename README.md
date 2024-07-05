@@ -396,7 +396,7 @@
 
 <details>
 <summary> 4. 레시피 게시글 조회 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/068cec05-90ec-4741-934b-c28a8758a6bf"  width="600">
 </details>
 
 <details>
