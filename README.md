@@ -433,7 +433,7 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 
 <details>
 <summary> 9. 게시글 좋아요 개수 조회 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/3cb46ea1-8435-4fb4-82a1-189c54cd1755"  width="600">
 </details>
 
 <details>
