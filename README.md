@@ -554,7 +554,8 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/bdc42d04-5280-4f85-ba99-8433c1ccc2dc">
  
   <summary> 3. 주문취소 </summary>
- <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/bdc42d04-5280-4f85-ba99-8433c1ccc2dc">
+![KakaoTalk_20240705_200211994](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8c5b4715-6173-4525-a1d9-e04cc8fd09a6)
+
 </details>
 <br>
 ##  📑 테스트케이스 문서 
