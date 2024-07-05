@@ -126,13 +126,24 @@
 ## 💾 Replication
 ### 🔎 ABOUT Replication
 ![image](https://github.com/3-Minutes-Query/1st_project/assets/171321676/b7ffb530-0ba9-41b5-8c20-6c32fa6f954b)
+<details>
+<summary><b>➡️ 수행과정</b></summary>
+<br>
+1) 클라이언트(Application)에서 Commit 을 수행한다.<br>
+2) Connection Thead 는 스토리지 엔진에게 해당 트랜잭션에 대한 Prepare(Commit 준비)를 수행한다.<br>
+3) Commit 을 수행하기 전에 먼저 Binary Log 에 변경사항을 기록한다.<br>
+4) 스토리지 엔진에게 트랜잭션 Commit 을 수행한다.<br>
+5) Master Thread 는 시간에 구애받지 않고(비동기적으로) Binary Log 를 읽어서 Slave 로 전송한다.<br>
+6) Slave 의 I/O Thread 는 Master 로부터 수신한 변경 데이터를 Relay Log 에 기록한다. (기록하는 방식은 Master 의 Binary Log 와 동일하다)<br>
+7) Slave 의 SQL Thread 는 Relay Log 에 기록된 변경 데이터를 읽어서 스토리지 엔진에 적용한다.<br></details>
 
-일반적인 분산 시스템에서는 Application의 고가용성을 위해 내부적으로 Replication이 동작하게 되는데 이러한 Replication 동작의 구현은 어려운 영역이면서, Application의 성능과 직접적으로 연관된 영역입니다.
+> 일반적인 분산 시스템에서는 Application의 고가용성을 위해 내부적으로 Replication이 동작하게 되는데 이러한 Replication 동작의 구현은 어려운 영역이면서, Application의 성능과 직접적으로 연관된 영역입니다.
 리플리케이션(Replication)은 데이터베이스 시스템에서 데이터의 복제본을 생성하고 유지하는 기술입니다. 이를 통해 데이터의 가용성을 높이고, 부하를 분산시키며, 데이터 보호를 강화할 수 있습니다. 
 
-일반적으로 Master-Slave 구조를 기반으로 하는 리플리케이션 방법이 많이 사용됩니다. 
-Master서버는 데이터의 변경에 대한 처리를 담당하며 변경 발생 시 binary log에 기록하고 Slave 서버로 전달합니다. 
-Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 반영하고 조회의 부담을 담당하여 서버의 부하를 분산 시키는 역할을 합니다. 
+> 또한, 일반적으로 Master-Slave 구조를 기반으로 하는 리플리케이션 방법이 많이 사용됩니다. 
+Master서버는 데이터의 변경에 대한 처리를 담당하며 변경 발생 시, binary log에 기록하고 Slave 서버로 전달합니다. 
+Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 반영하고 조회의 부담을 담당하여 서버의 부하를 분산 시키는 역할을 합니다.
+<br> <br>
 `binary log: DB에서 발생하는 모든 내역이 기록되는 파일`
 
 ### ✅ 01_연동확인
@@ -145,6 +156,7 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 <details> <summary><b>Click_[영상보기]</b></summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/353152ea-1b29-45cd-a4d6-86f008ddcdd3">
 </details>
+
 
 
 <br>
