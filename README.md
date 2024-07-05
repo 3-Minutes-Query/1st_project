@@ -499,7 +499,7 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 
 
 </details>
-
+</details>
 ---
 <br>
 
