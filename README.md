@@ -416,7 +416,8 @@
 
 <details>
 <summary> 7. 게시글 좋아요 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/b1ae00a8-0fdc-475f-9125-4787722c21a9"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/ea0cea63-e0e2-489b-b3b0-d2517c026094" width="600">
 </details>
 
 <details>
