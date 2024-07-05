@@ -124,13 +124,17 @@
 
 
 ## 💾 Replication
+### 🔎 ABOUT Replication
+일반적인 분산 시스템에서는 Application의 고가용성을 위해 내부적으로 Replication이 동작하게 되는데 
+이러한 Replication 동작의 구현은 어려운 영역이면서, Application의 성능과 직접적으로 연관된 영역이다.
+
+### 01_연동확인
 <details>
-<summary>연동확인</summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/deda9a29-49a6-4f1d-b577-4c72b66d1719">
 </details>
 
+### 02_slave read-only 옵션 확인
 <details>
-<summary>slave read-only 옵션 확인 </summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/353152ea-1b29-45cd-a4d6-86f008ddcdd3">
 </details>
 
