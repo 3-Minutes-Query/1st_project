@@ -540,7 +540,16 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/30641da0-4e1f-4643-b50a-a4c75b24af7e">
  <summary> 2. 좋아요 취소 </summary>
  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/b71cdc36-dfc4-4489-a474-72db71482fa5">
-  
+ </details>
+ 
+ <br>
+
+ <details>
+ <summary> 🔫TRIGGER </summary>
+ <summary> 1. 장바구니에 담아 주문 </summary> 
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/c0cb6252-5579-4d5d-92a8-fb6022742275">
+ <summary> 2. 주문시 재고수량 0미만일 경우 에러발생 </summary>
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/bdc42d04-5280-4f85-ba99-8433c1ccc2dc">
  </details>
 <br>
 ##  📑 테스트케이스 문서 
