@@ -459,10 +459,10 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 <details>
 <summary> 14. 분기별 베스트 레시피 게시글 조회 </summary>
  <details> <summary> 레시피 별 좋아요 수 조회 </summary>
- <img src = "![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8ad72cd0-7ff9-47bd-9e44-ee7841d0f8c6/eb9c683e-cdcb-4c81-8121-bafc7f4c6cc5/Untitled.png)"  width="600">
+ <img src = "https://prod-files-secure.s3.us-west-2.amazonaws.com/8ad72cd0-7ff9-47bd-9e44-ee7841d0f8c6/eb9c683e-cdcb-4c81-8121-bafc7f4c6cc5/Untitled.png"  width="600">
   </details>
  <details> <summary> 분기별 최대 좋아요 수 조회 </summary>
-<img src = "![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8ad72cd0-7ff9-47bd-9e44-ee7841d0f8c6/9dd4c821-7c71-4b59-ac3d-b6c85d57a538/Untitled.png)"  width="600">
+<img src = "https://prod-files-secure.s3.us-west-2.amazonaws.com/8ad72cd0-7ff9-47bd-9e44-ee7841d0f8c6/9dd4c821-7c71-4b59-ac3d-b6c85d57a538/Untitled.png"  width="600">
 </details>
 
 </details>
