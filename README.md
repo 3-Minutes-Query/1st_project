@@ -126,13 +126,16 @@
 ## 💾 Replication
 <details>
 <summary>연동확인</summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/e1b2ece4-a72c-47f9-8795-827722bdac52"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/deda9a29-49a6-4f1d-b577-4c72b66d1719"  width="600">
 </details>
 
 <details>
 <summary>slave read-only 옵션 확인 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/e1b2ece4-a72c-47f9-8795-827722bdac52"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/353152ea-1b29-45cd-a4d6-86f008ddcdd3"  width="600">
 </details>
+
+![master_insert_slave_select](https://github.com/3-Minutes-Query/1st_project/assets/119058637/deda9a29-49a6-4f1d-b577-4c72b66d1719)
+![slave_read_only](https://github.com/3-Minutes-Query/1st_project/assets/119058637/353152ea-1b29-45cd-a4d6-86f008ddcdd3)
 
 
 <br>
