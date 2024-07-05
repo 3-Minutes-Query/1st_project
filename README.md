@@ -256,7 +256,7 @@
  </details>
  <details>
  <summary> 2. 베스트 레시피 밀키트 상품 수정</summary>
-  <img src = ""
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/102345450/8d0f2b86-2917-4a9b-8d6d-bfd363cb88a1"
   width="600">
  </details>
  <details>
