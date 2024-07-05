@@ -431,7 +431,7 @@
 
 <details>
 <summary> 11. 레시피 댓글 수정 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/e42143e3-615d-4d0f-9320-cde44dd85bbb"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/772719d3-2bbe-4bef-b198-d6a93c7f4235"  width="600">
 </details>
 
 <details>
