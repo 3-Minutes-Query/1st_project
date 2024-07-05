@@ -123,81 +123,299 @@
 ![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8c7f24d2-1c76-4b31-88bc-0c6e1c174c9d)
 
 
+## 💾 Replication
+<details>
+<summary>연동확인</summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/e1b2ece4-a72c-47f9-8795-827722bdac52"  width="600">
+</details>
+
+<details>
+<summary>slave read-only 옵션 확인 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/e1b2ece4-a72c-47f9-8795-827722bdac52"  width="600">
+</details>
 
 
 <br>
 
- ## 📑 테스트케이스 문서 
+ ## ⏳⏰ 테스트케이스 코드 및 실행
+ 
 <details>
 <summary>👨‍💼 회원 정보 관리</summary>
-<!-- 회원정보 content here -->
+
+<details>
+<summary> 1. 회원가입</summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/1d458543-fcdc-42dd-9677-d397077d04b0", width="600">
+</details>
+
+<details>
+<summary> 2. 회원 탈퇴</summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/641cbbcc-8c55-4e74-86ca-15adff384032", width="600">
+</details>
+
+<details>
+<summary> 3. 회원정보 수정</summary>
+<img src = https://github.com/3-Minutes-Query/1st_project/assets/105826061/fdb9b8c4-2008-42b6-b40d-1112f009d6f9", width="600">
+</details>
+
+<details>
+<summary> 4. 회원정보 조회</summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/4b222c41-b3e1-4c84-8855-f81d6e54da41", width="600">
+</details>
+
 </details>
 
 ---
 
 <details>
 <summary>🕵️‍♀️ 관리자 정보 관리</summary>
-<!-- 관리자정보 content here -->
+
+ <details>
+ <summary> 1. 관리자 가입</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/04f83ba0-de40-49e9-9a81-b52b97bbdc45"  width="600">
+ </details>
+ 
+ <details>
+ <summary> 2. 관리자 탈퇴</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/7488e110-88f9-4a39-8fae-6ed6775780ab"  width="600">
+ </details>
+ 
+ <details>
+ <summary> 3. 관리자 정보 수정</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/2aa1c7c5-4f7c-44f6-823a-a14297df3e2c"  width="600">
+ </details>
+ 
+ <details>
+ <summary> 4. 관리자 정보 조회</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/cd916181-5ec7-493b-897e-bbd600730a07"  width="600">
+ </details>
 </details>
 
 ---
 
 <details>
 <summary>🥘 일반 밀키트 정보 관리</summary>
-<!-- 일반 밀키트 정보 content here -->
+<details>
+ <summary> 1. 일반 밀키트 상품 등록</summary>
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/41150fb1-f7d9-4062-a6ce-10c5baa20ee3"
+  width="600">
+ </details>
+ <details>
+ <summary> 2. 일반 밀키트 상품 수정</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/4b89cfc2-3cef-438e-a80c-86c2046b9967"
+  width="600">
+ </details>
+ <details>
+ <summary> 3. 일반 밀키트 상품 삭제</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/58480eb6-f7c3-4d70-b3f7-6c11a864c819"  width="600">
+ </details>
+ <details>
+ <summary> 4. 일반 밀키트 상품 조회</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/bfabd1dc-9b3f-4ac4-8730-7a4ca137bef6"  width="600">
+ </details>
+ <details>
+ <summary> 5. 일반 밀키트 상품 키워드 조회</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/dcb63193-f1d2-4a0f-9f16-247a3f3c86a6"
+  width="600">
+ </details>
+ <details>
+ <summary> 6. 일반 밀키트 상품 범위 조회</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/833d202f-f92d-442e-9217-57333153caf6"
+  width="600">
+ </details>
+ <details>
+ <summary> 7. 일반 밀키트 상품 리뷰 등록</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/aa107bfe-7407-474b-842b-6c171eb7fc2f"  width="600">
+ </details>
+ <details>
+ <summary> 8. 일반 밀키트 상품 리뷰 수정</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/831eb200-94f9-4feb-9ae4-098190d8ca2e"
+  width="600">
+ </details>
+ <details>
+ <summary> 9. 일반 밀키트 상품 리뷰 삭제</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/41d4cfaa-daeb-4a3c-8764-46bc1612656e"
+  width="600">
+ </details>
+ <details>
+ <summary> 10. 일반 밀키트 상품 리뷰 조회</summary>
+  <img src = "https://github.com/3-Minutes-Query/1st_project/assets/171321676/18e0391a-8e8d-4b02-bfe9-fcb26b1a8427"
+  width="600">
+ </details>
 </details>
+
+
 
 ---
 
 <details>
 <summary>🍱 베스트 레시피 밀키트 정보 관리</summary>
-<!-- 베스트 레시피 밀키트 정보 content here -->
+<details>
+ <summary> 1. 베스트 레시피 밀키트 상품 등록</summary>
+ <img src = ""
+  width="600">
+ </details>
+ <details>
+ <summary> 2. 베스트 레시피 밀키트 상품 수정</summary>
+  <img src = ""
+  width="600">
+ </details>
+ <details>
+ <summary> 3. 베스트 레시피 밀키트 상품 삭제</summary>
+  <img src = ""  width="600">
+ </details>
+ <details>
+ <summary> 4. 베스트 레시피 밀키트 상품 조회</summary>
+  <img src = ""  width="600">
+ </details>
+ <details>
+ <summary> 5. 베스트 레시피 밀키트 상품 키워드 조회</summary>
+  <img src = ""
+  width="600">
+ </details>
+ <details>
+ <summary> 6. 베스트 레시피 밀키트 상품 범위 조회</summary>
+  <img src = ""
+  width="600">
+ </details>
+ <details>
+ <summary> 7. 베스트 레시피 밀키트 상품 리뷰 등록</summary>
+  <img src = ""  width="600">
+ </details>
+ <details>
+ <summary> 8. 베스트 레시피 밀키트 상품 리뷰 수정</summary>
+  <img src = ""
+  width="600">
+ </details>
+ <details>
+ <summary> 9. 베스트 레시피 밀키트 상품 리뷰 삭제</summary>
+  <img src = ""
+  width="600">
+ </details>
+ <details>
+ <summary> 10. 베스트 레시피 밀키트 상품 리뷰 조회</summary>
+  <img src = ""
+  width="600">
+ </details>
 </details>
 
 ---
 
 <details>
 <summary>🧺 장바구니 관리</summary>
-<!-- 장바구니 content here -->
+
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
 </details>
 
 ---
 
 <details>
 <summary>💸 주문 관리</summary>
-<!-- 초대장템플릿 content here -->
+
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
 </details>
 
 ---
 
 <details>
 <summary>🥑 식재료 게시글 관리</summary>
-<summary> 식재료 게시글 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/53ed6811-37fc-4a0c-9d1b-ff825f1f9a4d"  width="600">
+ 
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
+<details>
+<summary> 2. 식재료 게시글 수정 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/222b8379-6346-4a04-8ad4-c4386601de68"  width="600">
+</details>
+
+<details>
+<summary> 3. 식재료 게시글 삭제 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/f7c0cc20-993a-4f57-beda-c3ad9a07615a"  width="600">
+</details>
+
+<details>
+<summary> 4. 식재료 게시글 조회 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/eb3b8cb4-08f8-4928-8e88-c6b2972cb546"  width="600">
+</details>
+
+<details>
+<summary> 5. 식재료 게시글 검색 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/7749e2d3-a301-4f55-bfb6-dbb92e0612bb"  width="600">
+</details>
+
+<details>
+<summary> 6. 식재료 게시글 댓글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/bf849242-8cac-4d20-b14b-51dd7d804d67"  width="600">
+</details>
+
+<details>
+<summary> 7. 식재료 게시글 댓글 수정 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/6dc817c6-fc87-4acb-a17c-5e4e54378703"  width="600">
+</details>
+
+<details>
+<summary> 8. 식재료 게시글 댓글 삭제 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/6457439d-dcbc-4f93-8041-560f6ff305c4"  width="600">
+</details>
+
+<details>
+<summary> 9. 식재료 게시글 댓글 조회 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/cc32614e-e42d-4926-a760-c338d9e45429"  width="600">
+</details>
+
 </details>
 
 ---
 
 <details>
 <summary>🧑‍🍳 레시피 게시글 관리</summary>
-<!-- 레시피 게시글 content here -->
+ 
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
 </details>
 
 ---
 
 <details>
 <summary>🏃‍♂️ 식단 기록 관리</summary>
- <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/9ef93100-425d-4e88-a5af-6e5eec94cc9a" width="600">
-
-
-<!-- 식단 기록 content here -->
+<br>
+<details>
+<summary>&nbsp; 1 .식단 기록 등록</summary>
+            <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/fb4bbf0d-1ef6-4de4-b25f-efecb74996b5" width="600">
+</details>
+<details>
+ <summary>&nbsp;2. 식단 기록 수정</summary>
+    <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/d3da1df1-fad8-469b-a9c1-f580782a62c5" width="600">
+ </details>
+ <details>
+   <summary>&nbsp;3. 식단 기록 삭제</summary>
+    <img src="https://github.com/3-Minutes-Query/1st_project/assets/93479041/ccb24f4d-2913-461a-a25f-d5956835465b" width="600">
+ </details>
 </details>
 
 ---
 
 <details>
 <summary>📖 목록 조회</summary>
-<!-- 목록 조회 content here -->
+ 
+<details>
+<summary> 1. 식재료 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+</details>
+
+
 </details>
 
 ---
@@ -207,7 +425,7 @@
 ## 📉 주요쿼리
 <br>
 
-## ⏳⏰ 테스트케이스 코드 및 실행
+##  📑 테스트케이스 문서 
 <br>
 
 ## 📜 회고
