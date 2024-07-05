@@ -122,6 +122,7 @@
 ### [ERD다이어그램](https://www.erdcloud.com/d/GCPQCsCEDBpBxKxQ3)
 ![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8c7f24d2-1c76-4b31-88bc-0c6e1c174c9d)
 
+<br><br>
 
 ## 💾 Replication
 ### 🔎 ABOUT Replication
@@ -145,6 +146,8 @@ Master서버는 데이터의 변경에 대한 처리를 담당하며 변경 발�
 Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 반영하고 조회의 부담을 담당하여 서버의 부하를 분산 시키는 역할을 합니다.
 <br> <br>
 `binary log: DB에서 발생하는 모든 내역이 기록되는 파일`
+
+<br>
 
 ### ✅ 01_연동확인
 <details>
