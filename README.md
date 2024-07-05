@@ -518,13 +518,14 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 
 <details>
 <summary> 2. 댓글 목록 조회 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/1ba892f0-2cb3-4105-80ed-6e3cf3b01c52"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/b6a5370a-ec08-412d-9734-6fdbdf79fc1f"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/17782e17-575a-451e-b0b3-7262e5318cab"  width="600"> 
 </details>
 
 <details>
 <summary> 3. 게시 목록 조회 </summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/aa46f6cf-fcc8-4526-accd-fa43ea41ec20"  width="600">
- <img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/62170374-3026-45b0-965f-deaf46e29612"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/162286096/62170374-3026-45b0-965f-deaf46e29612"  width="600">
 </details>
 
 </details>
