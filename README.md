@@ -122,7 +122,7 @@
 ### [ERD다이어그램](https://www.erdcloud.com/d/GCPQCsCEDBpBxKxQ3)
 ![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/8c7f24d2-1c76-4b31-88bc-0c6e1c174c9d)
 
-<br><br>
+<br>
 
 ## 💾 Replication
 ### 🔎 ABOUT Replication
