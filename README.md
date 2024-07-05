@@ -125,8 +125,13 @@
 
 ## 💾 Replication
 ### 🔎 ABOUT Replication
-일반적인 분산 시스템에서는 Application의 고가용성을 위해 내부적으로 Replication이 동작하게 되는데 
-이러한 Replication 동작의 구현은 어려운 영역이면서, Application의 성능과 직접적으로 연관된 영역이다.
+일반적인 분산 시스템에서는 Application의 고가용성을 위해 내부적으로 Replication이 동작하게 되는데 이러한 Replication 동작의 구현은 어려운 영역이면서, Application의 성능과 직접적으로 연관된 영역입니다.
+리플리케이션(Replication)은 데이터베이스 시스템에서 데이터의 복제본을 생성하고 유지하는 기술입니다. 이를 통해 데이터의 가용성을 높이고, 부하를 분산시키며, 데이터 보호를 강화할 수 있습니다. 
+
+일반적으로 Master-Slave 구조를 기반으로 하는 리플리케이션 방법이 많이 사용됩니다. 
+Master서버는 데이터의 변경에 대한 처리를 담당하며 변경 발생 시 binary log에 기록하고 Slave 서버로 전달합니다. 
+Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 반영하고 조회의 부담을 담당하여 서버의 부하를 분산 시키는 역할을 합니다. 
+`binary log: DB에서 발생하는 모든 내역이 기록되는 파일`
 
 ### ✅ 01_연동확인
 <details>
