@@ -130,13 +130,13 @@
 <details>
 <summary><b>➡️ 수행과정</b></summary>
 <br>
-1) 클라이언트(Application)에서 Commit 을 수행한다.<br>
-2) Connection Thead 는 스토리지 엔진에게 해당 트랜잭션에 대한 Prepare(Commit 준비)를 수행한다.<br>
-3) Commit 을 수행하기 전에 먼저 Binary Log 에 변경사항을 기록한다.<br>
-4) 스토리지 엔진에게 트랜잭션 Commit 을 수행한다.<br>
-5) Master Thread 는 시간에 구애받지 않고(비동기적으로) Binary Log 를 읽어서 Slave 로 전송한다.<br>
-6) Slave 의 I/O Thread 는 Master 로부터 수신한 변경 데이터를 Relay Log 에 기록한다. (기록하는 방식은 Master 의 Binary Log 와 동일하다)<br>
-7) Slave 의 SQL Thread 는 Relay Log 에 기록된 변경 데이터를 읽어서 스토리지 엔진에 적용한다.<br></details>
+1) &nbsp; 클라이언트(Application)에서 Commit 을 수행한다.<br>
+2) &nbsp; Connection Thead 는 스토리지 엔진에게 해당 트랜잭션에 대한 Prepare(Commit 준비)를 수행한다.<br>
+3) &nbsp; Commit 을 수행하기 전에 먼저 Binary Log 에 변경사항을 기록한다.<br>
+4) &nbsp; 스토리지 엔진에게 트랜잭션 Commit 을 수행한다.<br>
+5) &nbsp; Master Thread 는 시간에 구애받지 않고(비동기적으로) Binary Log 를 읽어서 Slave 로 전송한다.<br>
+6) &nbsp; Slave 의 I/O Thread 는 Master 로부터 수신한 변경 데이터를 Relay Log 에 기록한다. (기록하는 방식은 Master 의 Binary Log 와 동일하다)<br>
+7) &nbsp; Slave 의 SQL Thread 는 Relay Log 에 기록된 변경 데이터를 읽어서 스토리지 엔진에 적용한다.<br></details>
 
 > 일반적인 분산 시스템에서는 Application의 고가용성을 위해 내부적으로 Replication이 동작하게 되는데 이러한 Replication 동작의 구현은 어려운 영역이면서, Application의 성능과 직접적으로 연관된 영역입니다.
 리플리케이션(Replication)은 데이터베이스 시스템에서 데이터의 복제본을 생성하고 유지하는 기술입니다. 이를 통해 데이터의 가용성을 높이고, 부하를 분산시키며, 데이터 보호를 강화할 수 있습니다. 
