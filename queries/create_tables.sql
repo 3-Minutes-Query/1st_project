@@ -26,21 +26,23 @@ CREATE TABLE `member` (
     `user_solo_years` VARCHAR(255) NOT NULL,
     `user_email` VARCHAR(255) NOT NULL,
     `user_password` VARCHAR(255) NOT NULL,
-    `user_created_at` timestamp NOT NULL,
+    `user_created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
     `user_deleted_at` timestamp NULL,
-    `user_status` VARCHAR(255) NOT NULL CHECK(user_status IN ('활성','비활성')),
+    `user_status` VARCHAR(255) NOT NULL DEFAULT '활성',
+    CHECK(user_status IN ('활성','비활성')),
     PRIMARY KEY (`user_id`)
 ) ENGINE=INNODB AUTO_INCREMENT=1 COMMENT='회원';
 
 CREATE TABLE `admin` (
     `admin_id` bigint(20) NOT NULL AUTO_INCREMENT,
-    `comany_number` VARCHAR(255) NOT NULL,
+    `company_number` VARCHAR(255) NOT NULL,
     `admin_password` VARCHAR(255) NOT NULL,
     `admin_name` VARCHAR(255) NOT NULL,
     `admin_service_years` int NOT NULL,
-    `admin_created_at` timestamp NOT NULL,
+    `admin_created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
     `admin_created_atd` timestamp NULL,
-    `admin_status` VARCHAR(255) NOT NULL CHECK(admin_status IN ('활성','비활성')),
+    `admin_status` VARCHAR(255) NOT NULL DEFAULT '활성',
+     CHECK(admin_status IN ('활성','비활성')),
     PRIMARY KEY (`admin_id`)
 ) ENGINE=INNODB AUTO_INCREMENT=1 COMMENT='관리자';
 
