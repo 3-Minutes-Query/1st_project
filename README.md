@@ -391,7 +391,7 @@
 
 <details>
 <summary> 3. 레시피 게시글 삭제 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/4e34de5a-b3fa-45c4-ad34-87e2cfcd2a7b"  width="600">
 </details>
 
 <details>
