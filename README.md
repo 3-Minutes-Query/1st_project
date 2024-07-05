@@ -135,7 +135,7 @@
 </details>
 
 ### 02_slave read-only 옵션 확인
-<details> <summary>Click_[영상보기]</summary>
+<details> <summary><b>Click_[영상보기]</b>b></summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/353152ea-1b29-45cd-a4d6-86f008ddcdd3">
 </details>
 
