@@ -380,11 +380,72 @@
 <summary>🧑‍🍳 레시피 게시글 관리</summary>
  
 <details>
-<summary> 1. 식재료 게시글 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+<summary> 1. 레시피 게시글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 2. 레시피 게시글 수정 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 3. 레시피 게시글 삭제 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 4. 레시피 게시글 조회 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 5. 레시피 게시글 키워드 검색 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 6. 레시피 게시글 조건별 검색 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 7. 게시글 좋아요 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 8. 게시글 좋아요 취소 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 9. 게시글 좋아요 개수 조회 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 10. 레시피 댓글 등록 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 11. 레시피 댓글 수정 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 12. 레시피 댓글 삭제 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+</details>
+
+<details>
+<summary> 13. 레시피 댓글 조회 </summary>
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
 </details>
 
 </details>
+
 
 ---
 
