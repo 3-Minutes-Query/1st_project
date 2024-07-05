@@ -251,7 +251,7 @@
 <summary>🍱 베스트 레시피 밀키트 정보 관리</summary>
 <details>
  <summary> 1. 베스트 레시피 밀키트 상품 등록</summary>
- <img src = "https://github.com/3-Minutes-Query/1st_project/assets/102345450/c42d4d4b-7c79-474b-885d-0aeb9eb724f9"
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/102345450/78353779-13c4-4300-808e-ab45f7f890bd"
   width="600">
  </details>
  <details>
