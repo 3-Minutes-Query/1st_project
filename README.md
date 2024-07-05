@@ -1,4 +1,4 @@
-# 🍚🍴 혼밥세끼 
+![image](https://github.com/3-Minutes-Query/1st_project/assets/102345450/d2c78bfd-dc90-479a-9e11-1facc10d00bd)# 🍚🍴 혼밥세끼 
 
  <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="900" height="470">
 
@@ -251,7 +251,7 @@
 <summary>🍱 베스트 레시피 밀키트 정보 관리</summary>
 <details>
  <summary> 1. 베스트 레시피 밀키트 상품 등록</summary>
- <img src = ""
+ <img src = "https://github.com/3-Minutes-Query/1st_project/assets/102345450/c42d4d4b-7c79-474b-885d-0aeb9eb724f9"
   width="600">
  </details>
  <details>
