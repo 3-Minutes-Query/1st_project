@@ -368,7 +368,7 @@
 
 ## 📉 주요쿼리
 <br>
-![mp4_to_gif_test](https://github.com/3-Minutes-Query/1st_project/assets/119058637/e1b2ece4-a72c-47f9-8795-827722bdac52)
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/e1b2ece4-a72c-47f9-8795-827722bdac52"  width="600">
 
 ##  📑 테스트케이스 문서 
 <br>
