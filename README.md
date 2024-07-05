@@ -406,7 +406,7 @@
 
 <details>
 <summary> 6. 레시피 게시글 조건별 검색 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/c39d0453-232b-494d-92bb-7f23ce330a61"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/13cb16ef-9693-4de5-8581-a6d43f8b7fe4"  width="600">
 </details>
 
 <details>
