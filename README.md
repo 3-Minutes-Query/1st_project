@@ -1,4 +1,4 @@
-# 🍚🍴 혼밥세끼 
+![image](https://github.com/3-Minutes-Query/1st_project/assets/119058637/b9338f6d-3758-4bcc-83cb-9d08f43901fe)# 🍚🍴 혼밥세끼 
 
  <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="900" height="470">
 
@@ -331,10 +331,10 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 
 <details>
 <summary>🧺 장바구니 관리</summary>
-
+ 
 <details>
 <summary> 1. 장바구니 추가 </summary>
-<img src = ""  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/f2058336-325b-4b69-af78-65afb1292a20"  width="600">
 </details>
 <details>
 <summary> 2. 장바구니 수정 </summary>
@@ -344,7 +344,7 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 <img src = ""  width="600">
 </details>
 <summary> 4. 장바구니 보기 </summary>
-<img src = ""  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/f2058336-325b-4b69-af78-65afb1292a20"  width="600">
 </details>
 
 </details>
