@@ -160,9 +160,6 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/353152ea-1b29-45cd-a4d6-86f008ddcdd3">
 </details>
 
-
-
-
 <br>
 
  ## ⏳⏰ 테스트케이스 코드 및 실행
@@ -556,6 +553,12 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 ---
 <br>
 
+<details>
+<summary> 📑 테스트케이스 문서 </summary>
+### [테스트케이스] (https://docs.google.com/spreadsheets/d/1YVUgEbJRT1dJ8EujF3jOo3xXpX6KpSrxTAengGAMM-w/edit?gid=1214074379#gid=1214074379)
+<img_src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dbe55e6-adaf-47cf-9850-d77c0aebe370" width = "600">
+</details>
+<br>
 
 ## 📉 주요쿼리
  <details>
