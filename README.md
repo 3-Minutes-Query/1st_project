@@ -334,10 +334,10 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 </details>
 <details>
 <summary> 2. 장바구니 수정 </summary>
-<img src = ""  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/f5a61f3b-37e2-441b-b3a2-4cd746b96553"  width="600">
 </details>
 <summary> 3. 장바구니 삭제 </summary>
-<img src = ""  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/a01890ea-757d-49fa-bcbe-52c750fc6111"  width="600">
 </details>
 <summary> 4. 장바구니 보기 </summary>
 <img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/f2058336-325b-4b69-af78-65afb1292a20"  width="600">
@@ -349,23 +349,27 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 
 <details>
 <summary>💸 주문 관리</summary>
+![image](https://github.com/3-Minutes-Query/1st_project/assets/119058637/185fb191-8612-4ac8-a58f-ac4d2445dcf6)
+![image](https://github.com/3-Minutes-Query/1st_project/assets/119058637/784e017b-0ba0-44ff-9a46-78a9df175943)
+ ![image](https://github.com/3-Minutes-Query/1st_project/assets/119058637/c9a93759-847f-4747-b737-a97438f6ed01)
+
+![image](https://github.com/3-Minutes-Query/1st_project/assets/119058637/899a792e-8cec-437c-8988-c0be48b5e4c6)
 
 <details>
 <summary> 1. 주문진행 </summary>
-<img src = ""  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/185fb191-8612-4ac8-a58f-ac4d2445dcf6"  width="600">
 </details>
 <details>
 <summary> 2. 주문수정 </summary>
-<img src = ""  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/784e017b-0ba0-44ff-9a46-78a9df175943"  width="600">
 </details>
 <details>
 <summary> 3. 주문취소 </summary>
-<img src = "![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/dad8a611-1d91-48a9-b651-eba51eb70d99)
-"  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/c9a93759-847f-4747-b737-a97438f6ed01"  width="600">
 </details>
 <details>
 <summary> 4. 주문내역조회 </summary>
-<img src = ""  width="600">
+<img src = "https://github.com/3-Minutes-Query/1st_project/assets/119058637/899a792e-8cec-437c-8988-c0be48b5e4c6"  width="600">
 </details>
 
 </details>
