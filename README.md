@@ -110,6 +110,12 @@
 ### [요구사항 정의서](https://docs.google.com/spreadsheets/d/1YVUgEbJRT1dJ8EujF3jOo3xXpX6KpSrxTAengGAMM-w/edit?gid=0#gid=0)
 <img width="1000" heigth = "500" alt="image" src="https://github.com/3-Minutes-Query/1st_project/assets/105826061/f8f51979-5a84-4e6d-85a1-6b751375054e">
 
+
+## 📝 WBS
+### [WBS](https://docs.google.com/spreadsheets/d/1YVUgEbJRT1dJ8EujF3jOo3xXpX6KpSrxTAengGAMM-w/edit?gid=1283739427#gid=1283739427)
+<img width="1000" heigth = "500" alt="image" src="https://github.com/3-Minutes-Query/1st_project/assets/162286096/7c3e6ba9-7dee-4c7f-89f8-06ecdeb1032b">
+
+
 <br><br>
 ## 📊 DB모델링
 ### 01_ 개념적 모델링
