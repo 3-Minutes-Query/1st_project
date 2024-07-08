@@ -333,8 +333,18 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 <summary>🧺 장바구니 관리</summary>
 
 <details>
-<summary> 1. 식재료 게시글 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+<summary> 1. 장바구니 추가 </summary>
+<img src = ""  width="600">
+</details>
+<details>
+<summary> 2. 장바구니 수정 </summary>
+<img src = ""  width="600">
+</details>
+<summary> 3. 장바구니 삭제 </summary>
+<img src = ""  width="600">
+</details>
+<summary> 4. 장바구니 보기 </summary>
+<img src = ""  width="600">
 </details>
 
 </details>
@@ -345,8 +355,20 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 <summary>💸 주문 관리</summary>
 
 <details>
-<summary> 1. 식재료 게시글 등록 </summary>
-<img src = "https://github.com/3-Minutes-Query/1st_project/assets/105826061/0dec4246-e9f5-4384-bc50-f099e349590e"  width="600">
+<summary> 1. 주문진행 </summary>
+<img src = ""  width="600">
+</details>
+<details>
+<summary> 2. 주문수정 </summary>
+<img src = ""  width="600">
+</details>
+<details>
+<summary> 3. 주문취소 </summary>
+<img src = ""  width="600">
+</details>
+<details>
+<summary> 4. 주문내역조회 </summary>
+<img src = ""  width="600">
 </details>
 
 </details>
@@ -565,9 +587,9 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 <br>
 
 
-## 📜 회고
+## 📜 동료평가
 
-| &nbsp;&nbsp;Team Member&nbsp;&nbsp;&nbsp; | 회고록 |
+| &nbsp;&nbsp;Team Member&nbsp;&nbsp;&nbsp; | 동료평가 |
 | :--------------------------------------: | ------ |
 |                  조창욱                  | 인정?|
 |                  이나현                  | 어쩔방구 |
