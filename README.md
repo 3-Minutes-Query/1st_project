@@ -22,7 +22,7 @@
 ### 03_ 프로젝트 필요성 
 <b>1. 증가하는 1인 가구 </b><br>
 24년 4월 9일 행정안전부의 주민등록 인구 통계를 보면, 지난 3월 기준 전국의 1인 가구는 1002만1413가구로, 인구통계 집계 이래 처음으로 1000만 가구를 넘어섰습니다.이는 우리나라 전체 2400만2008가구 중 41.8%를 차지한다고 할정도로 1인가구가 증가하는 추세입니다. 이러한 추세는 1인 가구를 위한 맞춤형 서비스의 필요성을 강조합니다.
-<br>
+<br><br>
 출처:행정안전부(https://jumin.mois.go.kr/)
 <br>
 <img src="https://github.com/3-Minutes-Query/1st_project/assets/119058637/cace5131-e027-454c-8713-b551fb393df5" width="600">
@@ -87,6 +87,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&logo=kubernetes&logoColor=white)
 ![Jasypt](https://img.shields.io/badge/Jasypt-0045B9?logo=Jasypt&logoColor=white)-->
+
+### Tool
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/ERD%20cloud-%230000FF.svg?style=flat&logo=erlang&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/DA%23-0B6121.svg?style=flat&logo=draw.io&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 
 <br>
 
