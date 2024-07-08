@@ -364,7 +364,8 @@ Slave 서버는 Master 서버로부터 전달 받은 binary log를 통해 DB에 
 </details>
 <details>
 <summary> 3. 주문취소 </summary>
-<img src = ""  width="600">
+<img src = "![image](https://github.com/3-Minutes-Query/1st_project/assets/93479041/dad8a611-1d91-48a9-b651-eba51eb70d99)
+"  width="600">
 </details>
 <details>
 <summary> 4. 주문내역조회 </summary>
