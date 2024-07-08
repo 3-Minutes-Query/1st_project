@@ -1,7 +1,6 @@
-![image](https://github.com/3-Minutes-Query/1st_project/assets/119058637/b9338f6d-3758-4bcc-83cb-9d08f43901fe)# 🍚🍴 혼밥세끼 
+# 🍚🍴 혼밥세끼 
 
  <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/07312981-6db0-4c0c-8490-d892c2f18514" alt="배너 이미지 칸" width="900" height="470">
-
 <br>
 
 ## 🍛 Group 3 Team Member - `3 Minute Query`
