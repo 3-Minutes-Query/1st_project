@@ -58,7 +58,7 @@ UPDATE orders
 SET 
     order_cancel_at = NOW(),
     order_status = '주문취소'
-WHERE order_id = 1;
+WHERE order_id = 3;
 
 SELECT * FROM orders;
 SELECT * FROM cart;

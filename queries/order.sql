@@ -97,5 +97,5 @@ VALUES ('주문', 1);
 
 SELECT * FROM mealkit;
 SELECT * FROM best_recipe_mealkit;
-
+SELECT * FROM orders;
 SELECT * FROM cart;
