@@ -93,8 +93,12 @@
 
 <br>
 
-<!--## 🗓️ WBS
-<br>-->
+## 🗓️ WBS
+### [WBS](https://docs.google.com/spreadsheets/d/1YVUgEbJRT1dJ8EujF3jOo3xXpX6KpSrxTAengGAMM-w/edit?pli=1&gid=1283739427#gid=1283739427)
+<img width="587" alt="image" src="https://github.com/3-Minutes-Query/1st_project/assets/102345450/fee72335-0cd3-49fc-a246-4d76cce8774c">
+
+
+<br>
 <br>
 
 ## 🔀 플로우차트 
